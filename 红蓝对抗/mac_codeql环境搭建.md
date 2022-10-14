@@ -52,6 +52,16 @@ codeql database create /Users/safe6/codeql/database/gf --language="go" --source-
 codeql database create jstest --language=javascript
 ```
 
+
+
+# 3.vscode 查询
+
+首先打开codeql-sdk文件夹
+
+然后在对应语言的目录下创建demo.ql文件，vscode右键即可查询
+
+![image-20220928133445884](images/image-20220928133445884.png)
+
 # 参考文章
 
 1.CodeqlNote
